@@ -1,15 +1,6 @@
-<div align="center">
-
-# Hi, I am Antriksh Srivastava
-
-**Postdoctoral Researcher at Iowa State University, Ames, Iowa**  
-I build process-based and data-driven models to study plant carbon, water, and energy fluxes under climate stress.
-
-[Website](https://sites.google.com/view/cropsystemmodelling/home) |
-[GitHub](https://github.com/GitHub-srivastava) |
-[Email](mailto:srivastava.antriksh96@gmail.com)
-
-</div>
+<p align="center">
+  <img src="./terminal-profile.svg" alt="Antriksh Srivastava terminal profile" width="920">
+</p>
 
 ## Research Focus
 
