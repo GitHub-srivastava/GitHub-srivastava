@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/59443914?v=4" width="180" alt="Antriksh Srivastava" />
+
 # Antriksh Srivastava
 
-**Postdoctoral Researcher, CSRE, IIT Bombay**  
+**Postdoctoral Researcher, Iowa State University, Ames, Iowa**  
 Crop modeling | Plant physiology | Climate adaptation | Scientific ML
 
 [![Website](https://img.shields.io/badge/website-academic_profile-2d4f4a?style=for-the-badge)](https://github-srivastava.github.io/Website_Repo/)
@@ -14,7 +16,7 @@ Crop modeling | Plant physiology | Climate adaptation | Scientific ML
 ```text
 antriksh@research-lab
 ---------------------
-Role:        Postdoctoral Researcher, CSRE, IIT Bombay
+Role:        Postdoctoral Researcher, Iowa State University, Ames, Iowa
 Focus:       Process-based crop modeling for climate resilience
 Questions:   Water use, carbon fluxes, stomatal behavior, canopy scaling
 
